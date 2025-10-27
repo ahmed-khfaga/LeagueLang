@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MVC learn\\LeagueLangProject\\LeagueLang\\LeagueLang.csproj": {}
+    "D:\\3th sem\\projects\\LangLeague\\LeagueLangProject\\LeagueLang\\LeagueLang.csproj": {}
   },
   "projects": {
-    "D:\\MVC learn\\LeagueLangProject\\LeagueLang\\LeagueLang.csproj": {
+    "D:\\3th sem\\projects\\LangLeague\\LeagueLangProject\\LeagueLang\\LeagueLang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVC learn\\LeagueLangProject\\LeagueLang\\LeagueLang.csproj",
+        "projectUniqueName": "D:\\3th sem\\projects\\LangLeague\\LeagueLangProject\\LeagueLang\\LeagueLang.csproj",
         "projectName": "LeagueLang",
-        "projectPath": "D:\\MVC learn\\LeagueLangProject\\LeagueLang\\LeagueLang.csproj",
+        "projectPath": "D:\\3th sem\\projects\\LangLeague\\LeagueLangProject\\LeagueLang\\LeagueLang.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\MVC learn\\LeagueLangProject\\LeagueLang\\obj\\",
+        "outputPath": "D:\\3th sem\\projects\\LangLeague\\LeagueLangProject\\LeagueLang\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

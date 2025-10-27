@@ -1,0 +1,14 @@
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\bin\Debug\net9.0\LeagueLang.exe
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\bin\Debug\net9.0\LeagueLang.deps.json
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\bin\Debug\net9.0\LeagueLang.runtimeconfig.json
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\bin\Debug\net9.0\LeagueLang.dll
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\bin\Debug\net9.0\LeagueLang.pdb
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\obj\Debug\net9.0\LeagueLang.GeneratedMSBuildEditorConfig.editorconfig
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\obj\Debug\net9.0\LeagueLang.AssemblyInfoInputs.cache
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\obj\Debug\net9.0\LeagueLang.AssemblyInfo.cs
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\obj\Debug\net9.0\LeagueLang.csproj.CoreCompileInputs.cache
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\obj\Debug\net9.0\LeagueLang.dll
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\obj\Debug\net9.0\refint\LeagueLang.dll
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\obj\Debug\net9.0\LeagueLang.pdb
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\obj\Debug\net9.0\LeagueLang.genruntimeconfig.cache
+D:\3th sem\projects\LangLeague\LeagueLangProject\LeagueLang\obj\Debug\net9.0\ref\LeagueLang.dll

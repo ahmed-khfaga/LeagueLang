@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MVC learn\\LeagueLangProject\\",
+  "WorkspaceRootPath": "D:\\3th sem\\projects\\LangLeague\\LeagueLangProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C57ED35-F715-4F3E-8340-2BF48B85AE29}|LeagueLang\\LeagueLang.csproj|d:\\mvc learn\\leaguelangproject\\leaguelang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C57ED35-F715-4F3E-8340-2BF48B85AE29}|LeagueLang\\LeagueLang.csproj|d:\\3th sem\\projects\\langleague\\leaguelangproject\\leaguelang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C57ED35-F715-4F3E-8340-2BF48B85AE29}|LeagueLang\\LeagueLang.csproj|solutionrelative:leaguelang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MVC learn\\LeagueLangProject\\LeagueLang\\Program.cs",
+              "DocumentMoniker": "D:\\3th sem\\projects\\LangLeague\\LeagueLangProject\\LeagueLang\\Program.cs",
               "RelativeDocumentMoniker": "LeagueLang\\Program.cs",
-              "ToolTip": "D:\\MVC learn\\LeagueLangProject\\LeagueLang\\Program.cs",
-              "RelativeToolTip": "LeagueLang\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\3th sem\\projects\\LangLeague\\LeagueLangProject\\LeagueLang\\Program.cs*",
+              "RelativeToolTip": "LeagueLang\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T18:52:44.393Z",
               "EditorCaption": ""
